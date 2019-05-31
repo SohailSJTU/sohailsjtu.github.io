@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-use-site-title: true
 ---
 
 I am a PhD student at the Language Technologies Institute, Carnegie Mellon University. I am advised by xx and yy.
