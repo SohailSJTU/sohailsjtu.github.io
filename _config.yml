@@ -23,7 +23,7 @@ description: PhD student at Language Technologies Institute, Carnegie Mellon Uni
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: 
+  About Me: "aboutme"
   Publications: "publications"
   CV:
 
