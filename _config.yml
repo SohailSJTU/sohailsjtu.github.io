@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-#title: Aditi Chaudhary
+title: Aditi Chaudhary
 
 # Short description of your site
 #description: PhD student at Language Technologies Institute, Carnegie Mellon University
@@ -23,17 +23,16 @@ baseurl: ""
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
   Publications: "publications"
   CV:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-#avatar: "/img/myImage.jpeg"
+avatar: "/img/myImage.jpeg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/img/myImage.jpeg"
+#title-img: "/img/myImage.jpeg"
 
 # --- Background colour/image options --- #
 
