@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a PhD student at Language Technologies Institute, Carnegie Mellon University. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+### History
 
-### my history
+I finished my Masters in Language Technologies at Language Technologies Institute, Carnegie Mellon University. Prior to this, I was working as Software Engineer at the Search and Technology Center at Microsoft, India. 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I completed my undergraduation from Birla Institute of Technology and Science, Pilani, India with a dual degree in Master of Science (Hons.) Biological Sciences and Bachelor of Engineering (Hons.) Computer Science. 
+
+### Personal Interests
+
+I love playing Table Tennis aka Ping Ping in my spare time!
