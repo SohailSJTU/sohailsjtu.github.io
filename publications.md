@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: list
 title: Publications
 ---
 
