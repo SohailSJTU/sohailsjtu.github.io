@@ -11,7 +11,7 @@ I will be starting the Ph.D. program at Carnegie Mellon University in Fall 2019.
 My research interests are natural language processing for low-resource and endangered languages. I am particularly interested in multi-lingual transfer learning and how we can effectively leverage linguistic knowledge to achieve this. <br>
 You can find my [CV](http://aditi138.github.io/cv) and a list of my [publications](http://aditi138.github.io/publications). 
 
-Previouly, I was working as Software Engineer at the [Search and Technology Center at Microsoft, India](https://www.microsoft.com/en-in/msidc/). 
+Previouly, I was working as Software Engineer at Microsoft, India in the Search and Technology Center. 
 
 I completed my undergraduation from Birla Institute of Technology and Science, Pilani, India with a dual degree in Master of Science (Hons.) Biological Sciences and Bachelor of Engineering (Hons.) Computer Science. 
 
