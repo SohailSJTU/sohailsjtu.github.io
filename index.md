@@ -4,7 +4,7 @@ title: About me
 use-site-title: true
 ---
 
-Hey! I am Aditi, a second-year Masters student at the Language Technologies Institute, Carnegie Mellon University where I am advised by [Prof. Jaime Carbonell](https://www.cs.cmu.edu/~jgc/)  and [Prof. Graham Neubig](http://phontron.com). <br>
+Hey! I am Aditi, a second-year Masters student at the Language Technologies Institute, Carnegie Mellon University. I am advised by [Prof. Jaime Carbonell](https://www.cs.cmu.edu/~jgc/)  and [Prof. Graham Neubig](http://phontron.com). <br>
 I will be starting the Ph.D. program at Carnegie Mellon University in Fall 2019.
 
 
