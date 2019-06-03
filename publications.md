@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Publications
 ---
 
@@ -16,5 +16,5 @@ title: Publications
    In proceedings of Conference on Empirical Methods for Natural Language Processing (EMNLP) 2018 [[pdf]](https://arxiv.org/abs/1808.09500)
    
 4. __Weighted Global Normalization for Multiple Choice Reading Comprehension over Long Documents__<br>
-  *Aditi Chaudhary, Bhargavi Paranjape, Michiel de Jong*
+  *Aditi Chaudhary, Bhargavi Paranjape, Michiel de Jong*br>
    arXiv preprint [[pdf]](https://arxiv.org/pdf/1812.02253.pdf)
