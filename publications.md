@@ -8,7 +8,7 @@ title: Publications
    In proceedings of the ACL–SIGMORPHON 2019 Shared Task: Crosslinguality and Context in Morphology (To Appear)
 
 2. __Adapting Word Embeddings to New Languages with Morphological and Phonological Subword Representations__ <br>
-   *Aditi Chaudhary, Chunting Zhou, Lori Levin, Grahan Neubig, David R. Mortensen, Jaime G. Carbonell* <br>
+   *Aditi Chaudhary, Chunting Zhou, Lori Levin, Graham Neubig, David R. Mortensen, Jaime G. Carbonell* <br>
    In proceedings of Conference on Empirical Methods for Natural Language Processing (EMNLP) 2018 [[pdf]](https://arxiv.org/abs/1808.09500)
 
 __Additional Research__
