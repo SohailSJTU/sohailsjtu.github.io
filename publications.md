@@ -9,7 +9,7 @@ title: Publications
 
 2. __Adapting Word Embeddings to New Languages with Morphological and Phonological Subword Representations__ <br>
    *Aditi Chaudhary, Chunting Zhou, Lori Levin, Graham Neubig, David R. Mortensen, Jaime G. Carbonell* <br>
-   In proceedings of Conference on Empirical Methods for Natural Language Processing (EMNLP) 2018 [[pdf]](https://arxiv.org/abs/1808.09500) [code/data](https://github.com/Aditi138/Embeddings) 
+   In proceedings of Conference on Empirical Methods for Natural Language Processing (EMNLP) 2018 [[pdf]](https://arxiv.org/abs/1808.09500) [[code/data]](https://github.com/Aditi138/Embeddings) 
 
 __Additional Research__
 
