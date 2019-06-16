@@ -17,4 +17,4 @@ I completed my undergraduation from Birla Institute of Technology and Science, P
 
 ### Personal Interests
 
-I love playing Table Tennis aka Ping Ping in my spare time!
+I love playing Table Tennis aka Ping Pong in my spare time!
