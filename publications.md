@@ -9,7 +9,7 @@ title: Publications
    
 2. __Dr.Quad at MEDIQA 2019: Towards Textual Inferenceand Question Entailment using contextualized representations__ <br>
    *Vinayshekhar Bannihatti Kumar, Ashwin Srinivasan, Aditi Chaudhary, James Route, Teruko Mitamura, Eric Nyberg* <br>
-   In proceedings of the ACL–BioNLP 2019 Workshop, Florence, Italy. (To Appear)
+   In proceedings of the ACL–BioNLP 2019 Workshop, Florence, Italy. [[pdf]](http://arxiv.org/abs/1907.10136)
 
 3. __Adapting Word Embeddings to New Languages with Morphological and Phonological Subword Representations__ <br>
    *Aditi Chaudhary, Chunting Zhou, Lori Levin, Graham Neubig, David R. Mortensen, Jaime G. Carbonell* <br>
