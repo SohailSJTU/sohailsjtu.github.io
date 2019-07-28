@@ -5,7 +5,7 @@ title: Publications
 
 1. __CMU-01 at the SIGMORPHON 2019 Shared Task on Crosslinguality and Context in Morphology__ <br>
    *Aditi Chaudhary, Elizabeth Salesky, Gayatri Bhat, David Mortensen, Jaime Carbonell, Yulia Tsvetkov* <br>
-   In proceedings of the ACL–SIGMORPHON 2019 Workshop, Florence, Italy. [[pdf]] (https://arxiv.org/abs/1907.10129)
+   In proceedings of the ACL–SIGMORPHON 2019 Workshop, Florence, Italy. [[pdf]](https://arxiv.org/abs/1907.10129)
    
 2. __Dr.Quad at MEDIQA 2019: Towards Textual Inferenceand Question Entailment using contextualized representations__ <br>
    *Vinayshekhar Bannihatti Kumar, Ashwin Srinivasan, Aditi Chaudhary, James Route, Teruko Mitamura, Eric Nyberg* <br>
