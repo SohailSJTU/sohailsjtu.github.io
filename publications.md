@@ -2,7 +2,8 @@
 layout: list
 title: Publications
 ---
-1.__A Little Annotation does a Lot of Good: A Study in Bootstrapping Low-resource Named Entity Recognizers__ <br>
+
+1. __A Little Annotation does a Lot of Good: A Study in Bootstrapping Low-resource Named Entity Recognizers__ <br>
   *Aditi Chaudhary, Jiateng Xie, Zaid Sheikh, Graham Neubig, Jaime Carbonell* <br>
   In proceedings of Conference on Empirical Methods for Natural Language Processing (EMNLP) 2019 (To Appear).
 
