@@ -131,7 +131,7 @@ share-links-active:
 staticman:
   repository : "Aditi138/aditi138.github.io"
   branch     : "master"
-  endpoint   : "https://aditi138.github.io/"
+  endpoint   : "https://aditi138.github.io/v3/entry/github/"
   reCaptcha:
     # reCaptcha for Staticman (OPTIONAL)
     # If you use reCaptcha, you must also set these parameters in staticman.yml
