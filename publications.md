@@ -5,7 +5,7 @@ title: Publications
 
 1. __A Little Annotation does a Lot of Good: A Study in Bootstrapping Low-resource Named Entity Recognizers__ <br>
   *Aditi Chaudhary, Jiateng Xie, Zaid Sheikh, Graham Neubig, Jaime Carbonell* <br>
-  In proceedings of Conference on Empirical Methods for Natural Language Processing (EMNLP) 2019 (To Appear).
+  In proceedings of Conference on Empirical Methods for Natural Language Processing (EMNLP) 2019. [[pdf]](https://arxiv.org/abs/1908.08983) [[code]](https://github.com/Aditi138/EntityTargetedActiveLearning)
 
 2. __CMU-01 at the SIGMORPHON 2019 Shared Task on Crosslinguality and Context in Morphology__ <br>
    *Aditi Chaudhary, Elizabeth Salesky, Gayatri Bhat, David Mortensen, Jaime Carbonell, Yulia Tsvetkov* <br>
