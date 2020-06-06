@@ -11,12 +11,21 @@ title: Publications
    *Aditi Chaudhary, Elizabeth Salesky, Gayatri Bhat, David Mortensen, Jaime Carbonell, Yulia Tsvetkov* <br>
    In proceedings of the ACL–SIGMORPHON 2019 Workshop, Florence, Italy. [[pdf]](https://arxiv.org/abs/1907.10129) [[code]](https://github.com/Aditi138/MorphologicalAnalysis) <br>
    *** Awarded the Interpretability Prize ***
+
+3. __A Summary of the First Workshop on Language Technology for Language Documentation and Revitalization__ <br>
+     *Graham Neubig, Shruti Rijhwani, Alexis Palmer, Jordan MacKenzie, Hilaria Cruz, Xinjian Li, Matthew Lee, Aditi Chaudhary, Luke Gessler, Steven Abney, Shirley Anugrah Hayati, Antonios Anastasopoulos, Olga Zamaraeva, Emily Prud'hommeaux, Jennette Child, Sara Child, Rebecca Knowles, Sarah Moeller, Jeffrey Micher, Yiyuan Li, Sydney Zink, Mengzhou Xia, Roshan S Sharma, Patrick Littell* <br>
+     Proceedings of the 1st Joint SLTU and CCURL Workshop. May 2020. [[pdf]](https://arxiv.org/abs/2004.13203)
+     
+4. __What A Sunny Day: Toward Emoji-Sensitive Irony Detection__ <br>
+     *Aditi Chaudhary, Shirley Anugrah Hayati, Naoki Otani, Alan Black* <br>
+     In proceedings of the 5th W-NUT 2019 Workshop (EMNLP), Hong Kong. [[pdf]](https://www.aclweb.org/anthology/D19-55.pdf#page=232)
+ 
    
-3. __Dr.Quad at MEDIQA 2019: Towards Textual Inferenceand Question Entailment using contextualized representations__ <br>
+5. __Dr.Quad at MEDIQA 2019: Towards Textual Inferenceand Question Entailment using contextualized representations__ <br>
    *Vinayshekhar Bannihatti Kumar, Ashwin Srinivasan, Aditi Chaudhary, James Route, Teruko Mitamura, Eric Nyberg* <br>
    In proceedings of the ACL–BioNLP 2019 Workshop, Florence, Italy. [[pdf]](http://arxiv.org/abs/1907.10136)
 
-4. __Adapting Word Embeddings to New Languages with Morphological and Phonological Subword Representations__ <br>
+6. __Adapting Word Embeddings to New Languages with Morphological and Phonological Subword Representations__ <br>
    *Aditi Chaudhary, Chunting Zhou, Lori Levin, Graham Neubig, David R. Mortensen, Jaime G. Carbonell* <br>
    In proceedings of Conference on Empirical Methods for Natural Language Processing (EMNLP) 2018 [[pdf]](https://arxiv.org/abs/1808.09500) [[code/data]](https://github.com/Aditi138/Embeddings) 
 
