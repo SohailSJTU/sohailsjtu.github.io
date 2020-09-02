@@ -5,6 +5,7 @@ use-site-title: true
 ---
 
 Hey! I am Aditi, a Ph.D. student at the Language Technologies Institute, Carnegie Mellon University. I am advised by [Prof. Jaime Carbonell](https://www.cs.cmu.edu/~jgc/)  and [Prof. Graham Neubig](http://phontron.com).
+In the summer of 2020, I interned at Google Research where I worked on building better multi-lingual pretrained models.
 I completed my Masters program in Language Technologies at Carnegie Mellon University in August 2019.
 
 
