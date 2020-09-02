@@ -16,16 +16,20 @@ title: Publications
      *Graham Neubig, Shruti Rijhwani, Alexis Palmer, Jordan MacKenzie, Hilaria Cruz, Xinjian Li, Matthew Lee, Aditi Chaudhary, Luke Gessler, Steven Abney, Shirley Anugrah Hayati, Antonios Anastasopoulos, Olga Zamaraeva, Emily Prud'hommeaux, Jennette Child, Sara Child, Rebecca Knowles, Sarah Moeller, Jeffrey Micher, Yiyuan Li, Sydney Zink, Mengzhou Xia, Roshan S Sharma, Patrick Littell* <br>
      Proceedings of the 1st Joint SLTU and CCURL Workshop. May 2020. [[pdf]](https://arxiv.org/abs/2004.13203)
      
-4. __What A Sunny Day: Toward Emoji-Sensitive Irony Detection__ <br>
+4. __Exploring neural architectures and techniques for typologically diverse morphological inflection__ <br>
+     *Pratik Jayarao, Siddhanth Pillay, Pranav Thombre, Aditi Chaudhary* <br>
+     In proceedings of the 17th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology. [[pdf]](https://www.aclweb.org/anthology/2020.sigmorphon-1.14.pdf)
+  
+5. __What A Sunny Day: Toward Emoji-Sensitive Irony Detection__ <br>
      *Aditi Chaudhary, Shirley Anugrah Hayati, Naoki Otani, Alan Black* <br>
-     In proceedings of the 5th W-NUT 2019 Workshop (EMNLP), Hong Kong. [[pdf]](https://www.aclweb.org/anthology/D19-55.pdf#page=232)
+     In proceedings of the 5th W-NUT 2019 Workshop (EMNLP), Hong Kong. [[pdf]](https://www.aclweb.org/anthology/D19-55.pdf#page=232) 
  
    
-5. __Dr.Quad at MEDIQA 2019: Towards Textual Inferenceand Question Entailment using contextualized representations__ <br>
+6. __Dr.Quad at MEDIQA 2019: Towards Textual Inferenceand Question Entailment using contextualized representations__ <br>
    *Vinayshekhar Bannihatti Kumar, Ashwin Srinivasan, Aditi Chaudhary, James Route, Teruko Mitamura, Eric Nyberg* <br>
    In proceedings of the ACL–BioNLP 2019 Workshop, Florence, Italy. [[pdf]](http://arxiv.org/abs/1907.10136)
 
-6. __Adapting Word Embeddings to New Languages with Morphological and Phonological Subword Representations__ <br>
+7. __Adapting Word Embeddings to New Languages with Morphological and Phonological Subword Representations__ <br>
    *Aditi Chaudhary, Chunting Zhou, Lori Levin, Graham Neubig, David R. Mortensen, Jaime G. Carbonell* <br>
    In proceedings of Conference on Empirical Methods for Natural Language Processing (EMNLP) 2018 [[pdf]](https://arxiv.org/abs/1808.09500) [[code/data]](https://github.com/Aditi138/Embeddings) 
 
