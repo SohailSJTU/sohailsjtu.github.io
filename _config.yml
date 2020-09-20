@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://aditi138.github.io/"
+url: "https://sohailsjtu.github.io/"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,16 +14,16 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Aditi Chaudhary
+title: Muhammad Sohail
 
 # Short description of your site
-description: PhD student at LTI-CMU.
+description: PhD student at Zhejiang University, China.
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Publications: "publications"
-  CV: "cv"
+  Publications: "Publications"
+  CV: "CV"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -67,13 +67,13 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   #rss: false
-  email: "aschaudh AT CMU DOT EDU"
+  email: "sohail_sjtu at alumni dot sjtu dot edu dot cn"
 #  facebook: daattali
-  github: aditi138
-  twitter: AditiC123
+  github: sohailsjtu
+  twitter: sohail_sp12
 #  reddit: yourname
 #  google-plus: +DeanAttali
-  linkedin: aditi-chaudhary
+  linkedin: muhammad-sohail-sjtu
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -129,7 +129,7 @@ share-links-active:
 
 # Staticman support
 staticman:
-  repository : "Aditi138/aditi138.github.io"
+  repository : "sohailsjtu/sohailsjtu.github.io"
   branch     : "master"
   endpoint   : "https://aditi138.github.io/v3/entry/github/"
   reCaptcha:
