@@ -3,11 +3,11 @@ layout: page
 title: About me
 ---
 
-Currently I have joined the Computer Science School at Zhejiang University as a PhD student I am advised by [Professor Yingcai WU](http://www.ycwu.org/).
+Currently I have joined the Computer Science School at Zhejiang University as a PhD student I am advised by [Professor Yingcai WU](http://www.ycwu.org/). I have been awarded with Chinese Government Scholarship for my Doctoral Studies.
 
-I finished my Masters in Computer Vision at Shanghai Jiao Tong University. Supervised by Professor WU Jing.
+I finished my Masters in Control Science and Engineering at Shanghai Jiao Tong University with a specialization in Computer Vision. Supervised by [Professor WU Jing](http://automation.sjtu.edu.cn/en/ShowPeople.aspx?info_id=417&info_lb=326&flag=224). For my Masters I received Cultural Exchange Scholarship offered by the Inter Provisional Coordination Ministry of Pakistan.
 
-I completed my undergraduation from Birla Institute of Technology and Science, Pilani, India with a dual degree in Master of Science (Hons.) Biological Sciences and Bachelor of Engineering (Hons.) Computer Science. 
+I completed my undergraduation from COMSATS Institute of Information Technology, Pakistan with a Bronze Medal. I was also awarded prestigious Prime Minister National ICT R&D Scholarship for my undergrad studies.
 
 ### Personal Interests
 
