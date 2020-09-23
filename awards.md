@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Awards & Acheivements
+title: Awards
 ---
 1. I have been awarded with **Chinese Government Scholarship** for my Doctoral Studies.
 
