@@ -11,4 +11,4 @@ I finished my Masters in Control Science and Engineering at [**Shanghai Jiao Ton
 I completed my undergraduation from [**COMSATS Institute of Information Technology, Pakistan**](https://www.comsats.edu.pk/) with a **_Distinction_**. 
 
 ### Personal Interests
-I love to develop good Websites as well as Android Applications. I also enjoy sports activity and took part in **30 Km Marathon** held at Yellow Mountains, China in 2019. I am an active player of **Badminton** and also a regular follower as well as player of **DOTA 2**.
+I enjoy sports activity and took part in **30 Km Marathon** held at Yellow Mountains, China in 2019. I am an active player of **Badminton** and **DOTA 2 (Online Multiplayer Videogame)**.
